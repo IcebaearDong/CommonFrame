@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e667268191a5c6418fea2e888dc8551, type: 3}
+  m_Name: ConstantExcelData
+  m_EditorClassIdentifier: 
+  items:
+  - id: 1
+    value: 100
+    desc: "\u73A9\u5BB6\u521D\u59CB\u8840\u91CF"
+  - id: 2
+    value: 50
+    desc: "\u73A9\u5BB6\u521D\u59CB\u91D1\u5E01"
+  - id: 3
+    value: 3
+    desc: "\u683C\u5B50\u884C\u6570"
+  - id: 4
+    value: 3
+    desc: "\u683C\u5B50\u5217\u6570"
+  - id: 5
+    value: 6
+    desc: "\u6700\u5927\u623F\u95F4\u6570\u91CF"
+  - id: 6
+    value: 3
+    desc: "\u5546\u5E97\u9ED8\u8BA4\u4E2A\u6570"

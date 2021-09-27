@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c057b3a144036f40a4ee5fce00b8707, type: 3}
+  m_Name: Sheet1ExcelData
+  m_EditorClassIdentifier: 
+  items:
+  - id: 1
+    Type: 1
+    Name: "\u91CD\u7F6E\u524D\u65B9\u5BF9\u9762\u884C\u52A8"

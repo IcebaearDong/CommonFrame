@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a433265d966d4049858987016945867, type: 3}
+  m_Name: BuffExcelData
+  m_EditorClassIdentifier: 
+  items:
+  - id: 1
+    Type: 1
+    Name: "\u653B\u51FB\u7ED3\u675F\u540E\u81EA\u5DF1\n\u52A0\u653B\u51FB\u529B1"
+    TriggerStage: 4
+    Effect: 4
+    TargetMainType: 2
+    UnitType: 1
+    SelectType: 1
+    SelfPosType: 0
+    Value: 1
+    PerValue: 0
+    Odds: 10000
+    FixedPosX: 0
+    FixedPosY: 0
+    Random: 0
+  - id: 2
+    Type: 1
+    Name: "\u52A0\u653B\u51FB\u6B21\u6570"
+    TriggerStage: 1
+    Effect: 5
+    TargetMainType: 2
+    UnitType: 2
+    SelectType: 2
+    SelfPosType: 0
+    Value: 1
+    PerValue: 0
+    Odds: 5000
+    FixedPosX: 1
+    FixedPosY: 1
+    Random: 0
+  - id: 3
+    Type: 1
+    Name: "\u52A0\u8840"
+    TriggerStage: 4
+    Effect: 2
+    TargetMainType: 2
+    UnitType: 1
+    SelectType: 3
+    SelfPosType: 0
+    Value: 10
+    PerValue: 50
+    Odds: 10000
+    FixedPosX: 0
+    FixedPosY: 0
+    Random: 2
+  - id: 4
+    Type: 1
+    Name: "\u6BD2"
+    TriggerStage: 4
+    Effect: 8
+    TargetMainType: 2
+    UnitType: 4
+    SelectType: 3
+    SelfPosType: 0
+    Value: 1
+    PerValue: 0
+    Odds: 10000
+    FixedPosX: 0
+    FixedPosY: 0
+    Random: 2
+  - id: 5
+    Type: 1
+    Name: "\u6BD2"
+    TriggerStage: 4
+    Effect: 8
+    TargetMainType: 2
+    UnitType: 4
+    SelectType: 3
+    SelfPosType: 0
+    Value: 1
+    PerValue: 0
+    Odds: 10000
+    FixedPosX: 0
+    FixedPosY: 0
+    Random: 2
+  - id: 6
+    Type: 1
+    Name: "\u6BD2"
+    TriggerStage: 4
+    Effect: 8
+    TargetMainType: 2
+    UnitType: 4
+    SelectType: 3
+    SelfPosType: 0
+    Value: 1
+    PerValue: 0
+    Odds: 10000
+    FixedPosX: 0
+    FixedPosY: 0
+    Random: 2
